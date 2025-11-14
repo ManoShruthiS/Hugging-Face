@@ -1,106 +1,79 @@
-# **Mahistra**
-
-**Founded by Mahi — Established 2025**
-Advancing human learning by making technology and artificial intelligence accessible to everyone.
-
----
-
-## **Overview**
-
-Mahistra is a growing technology and learning-focused organization committed to simplifying complex technologies for everyday individuals.
-The company began in 2025 as a learning platform and is expanding into a multi-team environment focused on long-term research, development, and accessible digital solutions.
-
-Mahistra operates with the belief that technology should empower—not overwhelm—people.
-
----
-
-## **Mission**
-
-Mahistra’s mission is direct:
-
-**To make technology and artificial intelligence accessible to every normal human.**
-
-We focus on designing clear, practical, and meaningful experiences that help people understand and use modern technology without barriers.
-
----
-
-## **2027 Outlook**
-
-Mahistra is currently developing multiple large-scale initiatives scheduled for release in **2027**, aimed at creating measurable global impact.
-
-These projects will focus on:
-
-* Accessible AI-driven tools
-* Practical and scalable technology platforms
-* Human-centered digital learning systems
-* Solutions suitable for individuals with any background or skill level
-
-Official announcements regarding projects and team structures will be released progressively.
-
----
-
-## **Core Principles**
-
-Mahistra operates on five foundational principles:
-
-1. **Accessibility** — Technology should be available and understandable to all.
-2. **Transparency** — Clear communication and responsible development.
-3. **Simplicity** — Solutions designed for real-world usability.
-4. **Integrity** — A commitment to ethical, purposeful work.
-5. **Innovation** — Continuous exploration of new possibilities to create meaningful impact.
-
----
-
-## **Contact**
-
-For communication, inquiries, and collaborations:
-
-* **Email:** [mahistra3@gmail.com](mailto:mahistra3@gmail.com)
-* Additional communication channels will be introduced as Mahistra expands.
-
----
-
-## **GitHub Activity**
-
-(Activate these once your GitHub organization or account is ready.)
-
-Replace `YOUR_GITHUB_USERNAME` with the Mahistra GitHub username.
+# Welcome to Mahistra 👋
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=<mahistra>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Mahistra GitHub Stats" />
 </p>
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
-</p>
+Mahistra is a growing technology and learning organization founded in 2025 by Mahi.  
+We focus on building accessible technology, simplifying artificial intelligence, and creating learning experiences that help everyday individuals understand and use modern digital tools with confidence.
 
 ---
 
-## **Development Status**
+## About Mahistra
 
-Mahistra is in an active development phase.
-Announcements regarding products, teams, and roadmap milestones will be shared soon.
-
----
-
-<p align="center">
-  © 2025–2027 Mahistra. All rights reserved.
-</p>
+- Established in **2025** with the purpose of making **technology and AI accessible to every normal human**  
+- Currently growing into a multi-team organization with employees working across technology, learning, and research sectors  
+- Preparing large-scale learning and AI-driven platforms to support global users  
+- Upcoming announcements will introduce our **teams**, **projects**, and **platform roadmap** leading up to **2027**
 
 ---
 
-## If you want an even more premium version:
+## Our Mission
 
-I can create:
+Mahistra exists to remove the complexity surrounding modern technology.
 
-* A **super-minimal Apple-style version**
-* A **Wall Street corporate version**
-* A **Google-style clean layout**
-* A **Tech enterprise dark theme**
-* A **press release–style profile**
+We aim to:
+- Create simple and accessible digital learning systems  
+- Develop AI tools that can be used by individuals of any background  
+- Build platforms that support practical, real-world learning  
+- Empower people to understand and leverage technology without barriers  
 
-Tell me your preferred style, and I’ll design it.
+---
+
+## Upcoming Announcements (2027 Roadmap)
+
+- Human-centered, accessible AI tools  
+- Scalable digital learning platforms  
+- Internal development teams and employee structure  
+- Large-scale open and private projects designed for community benefit  
+
+Details will be shared as we progress through development phases.
+
+---
+
+## Current Areas of Exploration
+
+Mahistra is actively researching and developing in areas that align with our mission:
+
+- **Accessible AI Systems** — tools designed for everyday users  
+- **Learning Platforms** — modern, easy-to-understand digital learning experiences  
+- **Scalable Architecture** — preparing for high-impact deployments by 2027  
+
+---
+
+## Milestones & Progress
+
+- Company founded in **2025**  
+- Mission defined: **Technology & AI for everyone**  
+- Early plans for multi-team organizational structure  
+- Preparing to launch Mahistra’s first official projects  
+
+More updates will be released soon.
+
+---
+
+## Contact Mahistra
+
+- Email: **mahistra3@gmail.com**  
+- Official website and social platforms will be announced soon.
+
+Thank you for visiting our profile. Mahistra welcomes collaboration, ideas, and partnerships that support accessible and meaningful technology.
+
+---
+
+<!--
+Future Notes:
+
+- Add project links once platforms launch
+- Add team details after official announcement
+-->
